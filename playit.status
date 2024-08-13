@@ -1,0 +1,526 @@
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 3 tunnels[2J8[0mstarting up tunnel connection[2J8[0mGot Error
+MSG: Failed to setup tunnel client
+Error: RequestError(TooManyRequests)
+[2J8[0mtunnel running[2J8[0mplayit (v0.15.19): 1723586185230 tunnel running, 3 tunnels registered
+
+Failed to create guest login link
+
+TUNNELS
+direct-trans.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+buying-trailers.gl.at.ply.gg:65231 => 127.0.0.1:19255 (proto: Both, port count: 1)
+australia-science.gl.joinmc.link => 127.0.0.1:19255 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723586200343 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAszywAAAZFNvkNcAAAAAQAAAAEAAAAAAAAAAFx0Yw3YJ_zMNLsTpT_2d4QpoVsS2h6Fr-HyQCcxqEV1
+
+TUNNELS
+direct-trans.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+buying-trailers.gl.at.ply.gg:65231 => 127.0.0.1:19255 (proto: Both, port count: 1)
+australia-science.gl.joinmc.link => 127.0.0.1:19255 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723586215507 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAszywAAAZFNvn6TAAAAAQAAAAEAAAAAAAAAAPy6nuP8MhN8Y881QTtXge1JhKz8F7dxTFOFLhwZ8jGC
+
+TUNNELS
+direct-trans.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+buying-trailers.gl.at.ply.gg:65231 => 127.0.0.1:19255 (proto: Both, port count: 1)
+australia-science.gl.joinmc.link => 127.0.0.1:19255 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723586230662 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAszywAAAZFNvrnCAAAAAQAAAAEAAAAAAAAAAKA2M5uAaDAHQrFGCfbA0l1IADCTly7NG3iXn2YapV6Q
+
+TUNNELS
+direct-trans.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+buying-trailers.gl.at.ply.gg:65231 => 127.0.0.1:19255 (proto: Both, port count: 1)
+australia-science.gl.joinmc.link => 127.0.0.1:19255 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723586233769 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAszywAAAZFNvrnCAAAAAQAAAAEAAAAAAAAAAKA2M5uAaDAHQrFGCfbA0l1IADCTly7NG3iXn2YapV6Q
+
+TUNNELS
+direct-trans.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+buying-trailers.gl.at.ply.gg:65231 => 127.0.0.1:19255 (proto: Both, port count: 1)
+australia-science.gl.joinmc.link => 127.0.0.1:19255 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723586248860 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAszywAAAZFNvwDWAAAAAQAAAAEAAAAAAAAAAOC4D1kLbEElWkRAqwuqEAfUb0pkRS61ZVqdxGAiKXBK
+
+TUNNELS
+direct-trans.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+buying-trailers.gl.at.ply.gg:65231 => 127.0.0.1:19255 (proto: Both, port count: 1)
+australia-science.gl.joinmc.link => 127.0.0.1:19255 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723586264002 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAszywAAAZFNvzv9AAAAAQAAAAEAAAAAAAAAAFswVDx3BGo5duVpM9IFT4B4dfIfkZ6EGUX2RKKTGyqH
+
+TUNNELS
+direct-trans.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+buying-trailers.gl.at.ply.gg:65231 => 127.0.0.1:19255 (proto: Both, port count: 1)
+australia-science.gl.joinmc.link => 127.0.0.1:19255 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723586279150 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAszywAAAZFNv3cwAAAAAQAAAAEAAAAAAAAAAJ-j1EbdoJRCciZG5MSTm4YXQejReQ6OJVFp0MjCx0Wx
+
+TUNNELS
+direct-trans.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+buying-trailers.gl.at.ply.gg:65231 => 127.0.0.1:19255 (proto: Both, port count: 1)
+australia-science.gl.joinmc.link => 127.0.0.1:19255 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723586282262 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAszywAAAZFNv3cwAAAAAQAAAAEAAAAAAAAAAJ-j1EbdoJRCciZG5MSTm4YXQejReQ6OJVFp0MjCx0Wx
+
+TUNNELS
+direct-trans.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+buying-trailers.gl.at.ply.gg:65231 => 127.0.0.1:19255 (proto: Both, port count: 1)
+australia-science.gl.joinmc.link => 127.0.0.1:19255 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723586297367 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAszywAAAZFNv75lAAAAAQAAAAEAAAAAAAAAAD0eMHcfbLD1k5vhBGOBJG8o1vy2WTH6GebTyVHwN6Gz
+
+TUNNELS
+direct-trans.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+buying-trailers.gl.at.ply.gg:65231 => 127.0.0.1:19255 (proto: Both, port count: 1)
+australia-science.gl.joinmc.link => 127.0.0.1:19255 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723586312537 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAszywAAAZFNv_meAAAAAQAAAAEAAAAAAAAAAPnIsxtQS5fQetROJQYvDsEYz4VG2UAs4KIrRCrmaP8p
+
+TUNNELS
+direct-trans.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+buying-trailers.gl.at.ply.gg:65231 => 127.0.0.1:19255 (proto: Both, port count: 1)
+australia-science.gl.joinmc.link => 127.0.0.1:19255 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723586327689 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAszywAAAZFNwDTMAAAAAQAAAAEAAAAAAAAAAMlM58NpyA9d-pEPorn43kxkmP57F1Z_jPyP78IwgviC
+
+TUNNELS
+direct-trans.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+buying-trailers.gl.at.ply.gg:65231 => 127.0.0.1:19255 (proto: Both, port count: 1)
+australia-science.gl.joinmc.link => 127.0.0.1:19255 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723586342842 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAszywAAAZFNwG_4AAAAAQAAAAEAAAAAAAAAAC5bpwFAgn1fTOt92-IvTSU5qxdG3JvCU-N1KkzoAH8V
+
+TUNNELS
+direct-trans.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+buying-trailers.gl.at.ply.gg:65231 => 127.0.0.1:19255 (proto: Both, port count: 1)
+australia-science.gl.joinmc.link => 127.0.0.1:19255 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723586346010 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAszywAAAZFNwG_4AAAAAQAAAAEAAAAAAAAAAC5bpwFAgn1fTOt92-IvTSU5qxdG3JvCU-N1KkzoAH8V
+
+TUNNELS
+direct-trans.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+buying-trailers.gl.at.ply.gg:65231 => 127.0.0.1:19255 (proto: Both, port count: 1)
+australia-science.gl.joinmc.link => 127.0.0.1:19255 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723586361117 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAszywAAAZFNwLdgAAAAAQAAAAEAAAAAAAAAAJ3Pha5lbf0N6e6QayqpZPGFfN1uDCiFnMHjYV7c22Y6
+
+TUNNELS
+direct-trans.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+buying-trailers.gl.at.ply.gg:65231 => 127.0.0.1:19255 (proto: Both, port count: 1)
+australia-science.gl.joinmc.link => 127.0.0.1:19255 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723586376271 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAszywAAAZFNwPKJAAAAAQAAAAEAAAAAAAAAABsVcKIHCb1QClW8dD7wOs1GpSHzTb_Q_HKQewQ7GFrE
+
+TUNNELS
+direct-trans.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+buying-trailers.gl.at.ply.gg:65231 => 127.0.0.1:19255 (proto: Both, port count: 1)
+australia-science.gl.joinmc.link => 127.0.0.1:19255 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723586379382 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAszywAAAZFNwPKJAAAAAQAAAAEAAAAAAAAAABsVcKIHCb1QClW8dD7wOs1GpSHzTb_Q_HKQewQ7GFrE
+
+TUNNELS
+direct-trans.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+buying-trailers.gl.at.ply.gg:65231 => 127.0.0.1:19255 (proto: Both, port count: 1)
+australia-science.gl.joinmc.link => 127.0.0.1:19255 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723586394472 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAszywAAAZFNwTmrAAAAAQAAAAEAAAAAAAAAALxYniGvOJXfIk6tirpwXEbwQkbMcyG7vy2gT6p4SryN
+
+TUNNELS
+direct-trans.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+buying-trailers.gl.at.ply.gg:65231 => 127.0.0.1:19255 (proto: Both, port count: 1)
+australia-science.gl.joinmc.link => 127.0.0.1:19255 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723586409635 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAszywAAAZFNwXThAAAAAQAAAAEAAAAAAAAAAOdNjvAQutcTAxUS2YJ6t4BdzowZEXcJfYaolMdk8bbQ
+
+TUNNELS
+direct-trans.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+buying-trailers.gl.at.ply.gg:65231 => 127.0.0.1:19255 (proto: Both, port count: 1)
+australia-science.gl.joinmc.link => 127.0.0.1:19255 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723586412752 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAszywAAAZFNwXThAAAAAQAAAAEAAAAAAAAAAOdNjvAQutcTAxUS2YJ6t4BdzowZEXcJfYaolMdk8bbQ
+
+TUNNELS
+direct-trans.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+buying-trailers.gl.at.ply.gg:65231 => 127.0.0.1:19255 (proto: Both, port count: 1)
+australia-science.gl.joinmc.link => 127.0.0.1:19255 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723586427860 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAszywAAAZFNwbwZAAAAAQAAAAEAAAAAAAAAAHeVa-3n9K3m0tDpFrYcjGiv_ZnbrSGNNvqiA_3fGids
+
+TUNNELS
+direct-trans.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+buying-trailers.gl.at.ply.gg:65231 => 127.0.0.1:19255 (proto: Both, port count: 1)
+australia-science.gl.joinmc.link => 127.0.0.1:19255 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723586443029 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAszywAAAZFNwfdZAAAAAQAAAAEAAAAAAAAAALOgDhBxIinQvWhXdAPlRK0MHsxYZhexvDOoMkCmz4X2
+
+TUNNELS
+direct-trans.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+buying-trailers.gl.at.ply.gg:65231 => 127.0.0.1:19255 (proto: Both, port count: 1)
+australia-science.gl.joinmc.link => 127.0.0.1:19255 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723586458167 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAszywAAAZFNwjJzAAAAAQAAAAEAAAAAAAAAAEI2RDcSXVdfkjBgQi8Tw9BXRDgDUeLiklQmoBXz-XTa
+
+TUNNELS
+direct-trans.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+buying-trailers.gl.at.ply.gg:65231 => 127.0.0.1:19255 (proto: Both, port count: 1)
+australia-science.gl.joinmc.link => 127.0.0.1:19255 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723586461276 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAszywAAAZFNwjJzAAAAAQAAAAEAAAAAAAAAAEI2RDcSXVdfkjBgQi8Tw9BXRDgDUeLiklQmoBXz-XTa
+
+TUNNELS
+direct-trans.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+buying-trailers.gl.at.ply.gg:65231 => 127.0.0.1:19255 (proto: Both, port count: 1)
+australia-science.gl.joinmc.link => 127.0.0.1:19255 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723586476369 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAszywAAAZFNwnmOAAAAAQAAAAEAAAAAAAAAAIXMkipSg4bcgv8BVB2WMJD56NegBfTBoaWqtMHfNIIu
+
+TUNNELS
+direct-trans.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+buying-trailers.gl.at.ply.gg:65231 => 127.0.0.1:19255 (proto: Both, port count: 1)
+australia-science.gl.joinmc.link => 127.0.0.1:19255 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723586491531 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAszywAAAZFNwrTGAAAAAQAAAAEAAAAAAAAAADxI03dKmAIoaUjoKfrKeX9qJm2mLBY3xAb2oCKL7iF9
+
+TUNNELS
+direct-trans.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+buying-trailers.gl.at.ply.gg:65231 => 127.0.0.1:19255 (proto: Both, port count: 1)
+australia-science.gl.joinmc.link => 127.0.0.1:19255 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723586506671 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAszywAAAZFNwu_tAAAAAQAAAAEAAAAAAAAAALStEKpvACxljDe5Il8axrE1UpnasHOFjyLf0Ev9qBTB
+
+TUNNELS
+direct-trans.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+buying-trailers.gl.at.ply.gg:65231 => 127.0.0.1:19255 (proto: Both, port count: 1)
+australia-science.gl.joinmc.link => 127.0.0.1:19255 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723586521810 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAszywAAAZFNwysQAAAAAQAAAAEAAAAAAAAAAJgBW8YQCHCFjk_7UZQat0rz4C8Hq-l_3WtDCC2rzR1B
+
+TUNNELS
+direct-trans.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+buying-trailers.gl.at.ply.gg:65231 => 127.0.0.1:19255 (proto: Both, port count: 1)
+australia-science.gl.joinmc.link => 127.0.0.1:19255 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723586536952 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAszywAAAZFNw2ZBAAAAAQAAAAEAAAAAAAAAAPeRXwSCFOOHLOx-SgOy3-siIu82GmUUTehD3y0vxRlv
+
+TUNNELS
+direct-trans.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+buying-trailers.gl.at.ply.gg:65231 => 127.0.0.1:19255 (proto: Both, port count: 1)
+australia-science.gl.joinmc.link => 127.0.0.1:19255 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723586552113 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAszywAAAZFNw6F6AAAAAQAAAAEAAAAAAAAAAGyKiPqoUDJDIQBxGWxs1vGe6Mi5_8dBTYmilp0QfJ8c
+
+TUNNELS
+direct-trans.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+buying-trailers.gl.at.ply.gg:65231 => 127.0.0.1:19255 (proto: Both, port count: 1)
+australia-science.gl.joinmc.link => 127.0.0.1:19255 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723586555226 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAszywAAAZFNw6F6AAAAAQAAAAEAAAAAAAAAAGyKiPqoUDJDIQBxGWxs1vGe6Mi5_8dBTYmilp0QfJ8c
+
+TUNNELS
+direct-trans.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+buying-trailers.gl.at.ply.gg:65231 => 127.0.0.1:19255 (proto: Both, port count: 1)
+australia-science.gl.joinmc.link => 127.0.0.1:19255 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723586570324 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAszywAAAZFNw-igAAAAAQAAAAEAAAAAAAAAAM6GkGobkMugKlxa3GGDbovWGwS2OZ-aB80BepkwdktZ
+
+TUNNELS
+direct-trans.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+buying-trailers.gl.at.ply.gg:65231 => 127.0.0.1:19255 (proto: Both, port count: 1)
+australia-science.gl.joinmc.link => 127.0.0.1:19255 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723586585473 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAszywAAAZFNxCO_AAAAAQAAAAEAAAAAAAAAABQXgSOfBZKdxAunYYTgHbVB4iJqoFSSjpGNLxH505RG
+
+TUNNELS
+direct-trans.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+buying-trailers.gl.at.ply.gg:65231 => 127.0.0.1:19255 (proto: Both, port count: 1)
+australia-science.gl.joinmc.link => 127.0.0.1:19255 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723586600619 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAszywAAAZFNxF7wAAAAAQAAAAEAAAAAAAAAAFWpz8aWjpwHWi--gCGafUZZq2-urjCEiyLojczugvwm
+
+TUNNELS
+direct-trans.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+buying-trailers.gl.at.ply.gg:65231 => 127.0.0.1:19255 (proto: Both, port count: 1)
+australia-science.gl.joinmc.link => 127.0.0.1:19255 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723586603722 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAszywAAAZFNxF7wAAAAAQAAAAEAAAAAAAAAAFWpz8aWjpwHWi--gCGafUZZq2-urjCEiyLojczugvwm
+
+TUNNELS
+direct-trans.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+buying-trailers.gl.at.ply.gg:65231 => 127.0.0.1:19255 (proto: Both, port count: 1)
+australia-science.gl.joinmc.link => 127.0.0.1:19255 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723586618815 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAszywAAAZFNxKYDAAAAAQAAAAEAAAAAAAAAAHHIAeUhCVy1Dy78KyGs9XFHsx5IcRzOiuDC16Y4Onii
+
+TUNNELS
+direct-trans.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+buying-trailers.gl.at.ply.gg:65231 => 127.0.0.1:19255 (proto: Both, port count: 1)
+australia-science.gl.joinmc.link => 127.0.0.1:19255 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723586633953 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAszywAAAZFNxOEhAAAAAQAAAAEAAAAAAAAAAJOhTZmuGy21CmwSJShrVOAv_feoChC2dJDozu_N09lY
+
+TUNNELS
+direct-trans.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+buying-trailers.gl.at.ply.gg:65231 => 127.0.0.1:19255 (proto: Both, port count: 1)
+australia-science.gl.joinmc.link => 127.0.0.1:19255 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723586649103 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAszywAAAZFNxRxXAAAAAQAAAAEAAAAAAAAAAGRn8A9rYC3L70hziitXA3CpkLEWoZj1NFjkvWSz1s-N
+
+TUNNELS
+direct-trans.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+buying-trailers.gl.at.ply.gg:65231 => 127.0.0.1:19255 (proto: Both, port count: 1)
+australia-science.gl.joinmc.link => 127.0.0.1:19255 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723586664261 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAszywAAAZFNxVeFAAAAAQAAAAEAAAAAAAAAABVQwhF8zIoy9zApm1C-xl0RNRDM7JsKAerDK_BJK1A9
+
+TUNNELS
+direct-trans.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+buying-trailers.gl.at.ply.gg:65231 => 127.0.0.1:19255 (proto: Both, port count: 1)
+australia-science.gl.joinmc.link => 127.0.0.1:19255 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723586679419 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAszywAAAZFNxZLDAAAAAQAAAAEAAAAAAAAAAMCSE5IODFVWIVqM5LsoaAeVbioHyBMqjBOsyAiVZ_Px
+
+TUNNELS
+direct-trans.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+buying-trailers.gl.at.ply.gg:65231 => 127.0.0.1:19255 (proto: Both, port count: 1)
+australia-science.gl.joinmc.link => 127.0.0.1:19255 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723586682540 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAszywAAAZFNxZLDAAAAAQAAAAEAAAAAAAAAAMCSE5IODFVWIVqM5LsoaAeVbioHyBMqjBOsyAiVZ_Px
+
+TUNNELS
+direct-trans.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+buying-trailers.gl.at.ply.gg:65231 => 127.0.0.1:19255 (proto: Both, port count: 1)
+australia-science.gl.joinmc.link => 127.0.0.1:19255 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723586697632 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAszywAAAZFNxdnwAAAAAQAAAAEAAAAAAAAAAOA1Rzc3YCQmgDNp0Um5DCfkLEDPsutKDgTa9hsr9g6W
+
+TUNNELS
+direct-trans.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+buying-trailers.gl.at.ply.gg:65231 => 127.0.0.1:19255 (proto: Both, port count: 1)
+australia-science.gl.joinmc.link => 127.0.0.1:19255 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723586712799 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAszywAAAZFNxhUgAAAAAQAAAAEAAAAAAAAAAIOy5fcNwRe-FdkWVVk4f9mo0JgB-8mvPwMrfhZe5P4f
+
+TUNNELS
+direct-trans.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+buying-trailers.gl.at.ply.gg:65231 => 127.0.0.1:19255 (proto: Both, port count: 1)
+australia-science.gl.joinmc.link => 127.0.0.1:19255 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723586727942 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAszywAAAZFNxlBJAAAAAQAAAAEAAAAAAAAAAKPen-nhl_r-y4wlR4z34XtvsuDSLyoBkZ1djtDvvTR5
+
+TUNNELS
+direct-trans.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+buying-trailers.gl.at.ply.gg:65231 => 127.0.0.1:19255 (proto: Both, port count: 1)
+australia-science.gl.joinmc.link => 127.0.0.1:19255 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723586743078 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAszywAAAZFNxotwAAAAAQAAAAEAAAAAAAAAAJ8Gt6oXq8VimQF5EA87NAFb26F3Sqpswsfw2oTGwZ2Y
+
+TUNNELS
+direct-trans.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+buying-trailers.gl.at.ply.gg:65231 => 127.0.0.1:19255 (proto: Both, port count: 1)
+australia-science.gl.joinmc.link => 127.0.0.1:19255 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723586758244 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAszywAAAZFNxsaoAAAAAQAAAAEAAAAAAAAAAGIF7ztWk_HZH5d_2wtfKvy1xqjL6neVfiQCOuamz-mK
+
+TUNNELS
+direct-trans.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+buying-trailers.gl.at.ply.gg:65231 => 127.0.0.1:19255 (proto: Both, port count: 1)
+australia-science.gl.joinmc.link => 127.0.0.1:19255 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723586773383 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAszywAAAZFNxwHFAAAAAQAAAAEAAAAAAAAAAHqNS5aRUqLWHAJA7eJ-8LRKrA07uM8Chn6pM5t5E5rZ
+
+TUNNELS
+direct-trans.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+buying-trailers.gl.at.ply.gg:65231 => 127.0.0.1:19255 (proto: Both, port count: 1)
+australia-science.gl.joinmc.link => 127.0.0.1:19255 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723586788515 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAszywAAAZFNxzzlAAAAAQAAAAEAAAAAAAAAADIhvu5x3VWaoeH5RG-H8uUzkyVLbuPxSzlgwUe6197M
+
+TUNNELS
+direct-trans.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+buying-trailers.gl.at.ply.gg:65231 => 127.0.0.1:19255 (proto: Both, port count: 1)
+australia-science.gl.joinmc.link => 127.0.0.1:19255 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723586803661 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAszywAAAZFNx3gWAAAAAQAAAAEAAAAAAAAAAFenfr6W-xCCC83BrNOD902zHiBkVXDUHjlAkuqV1Nkt
+
+TUNNELS
+direct-trans.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+buying-trailers.gl.at.ply.gg:65231 => 127.0.0.1:19255 (proto: Both, port count: 1)
+australia-science.gl.joinmc.link => 127.0.0.1:19255 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723586818802 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAszywAAAZFNx7M1AAAAAQAAAAEAAAAAAAAAAOOF_Gxzb5cCDJntBa6z_PAcPWZo8GRByIDe1fai1zvb
+
+TUNNELS
+direct-trans.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+buying-trailers.gl.at.ply.gg:65231 => 127.0.0.1:19255 (proto: Both, port count: 1)
+australia-science.gl.joinmc.link => 127.0.0.1:19255 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
